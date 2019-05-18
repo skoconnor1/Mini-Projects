@@ -4,5 +4,5 @@ Data Wrangling
  -JSON Mini-Project
  -SQL Mini-Project
 
-Machine Leaninghttps
+Machine Leaning
  -Logistic Regression Mini-Project
