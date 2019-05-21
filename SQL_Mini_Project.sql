@@ -38,7 +38,7 @@ WHERE membercost > 0
 
 SELECT COUNT(membercost)
 FROM  `Facilities`
-WHERE membercost > 0
+WHERE membercost = 0
 
 /* ANSWER 2: 4 facilities do not charge member fees. */
 
